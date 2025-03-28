@@ -41,7 +41,7 @@ The osTicket ticket lifecycle involves several stages from intake (when a ticket
 <img src="https://i.imgur.com/GROxaSx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once the ticket is created, it needs to be categorized and prioritized. This may involve:  Categories (such as Technical Support, Billing, etc.) are assigned to help the agents quickly understand the type of issue.  The ticket may be assigned to a specific department, team, or agent.
 </p>
 <br />
 
@@ -49,6 +49,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/cIq95LA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once the agent believes the issue is resolved, they may seek confirmation from the user to ensure satisfaction, After the user confirms the issue has been resolved (or if no further response is needed), the ticket is closed. The ticket is marked as "Resolved" or "Closed," and the agent might add a final note summarizing the solution.
 </p>
 <br />
