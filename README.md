@@ -51,3 +51,11 @@ Once the ticket is created, it needs to be categorized and prioritized. This may
 Once the agent believes the issue is resolved, they may seek confirmation from the user to ensure satisfaction, After the user confirms the issue has been resolved (or if no further response is needed), the ticket is closed. The ticket is marked as "Resolved" or "Closed," and the agent might add a final note summarizing the solution.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/z5C9t4A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+in Active Directory u would do an where u can change password, adding then to a group or change their access.
+</p>
+<br />
